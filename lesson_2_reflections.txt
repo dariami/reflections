@@ -12,3 +12,6 @@ When you stage the file it is still on your local branch but not yet available t
 Different from working directory is that it is ready to commit.
 I think it is a good idea to stage the files you are finished working with and add others
 when they are done as well and then just commit in one batch.
+
+3) How can you use the staging area to make sure you have one commit per logical change?
+You add to staging only files for specific change and then commit
