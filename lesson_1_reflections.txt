@@ -1,0 +1,26 @@
+1) It helped me to see only parts of the file which were changed.
+That helped to significantly decrease the amount of text I had to look into. It was also 
+very useful to be able to see what was added and what was removed. Therefore, I could
+find the bug much faster.
+
+2) Having an entire history of a file can help you go back to the old version if you make 
+some changes by mistake. It may help you to track who did the changes and what the changes
+ are. In time you forget what you have done and the history may refresh your memory. 
+
+3)Pros: you can commit when it is necessary, to make history of commits not too long and 
+easier to understand. Cons: you might forget to commit.
+
+4) Because GIT is designed for different file types and most probably there will be a lot 
+of files which have dependencies.
+
+5) How can you use the commands git log and git diff to view the history of files?
+git log shows the entire history of a file where we can find each commit
+git diff compares two commits
+
+6) How might using version control make you more confident to make changes that could 
+break something?
+By using version control I can go roll back
+
+
+7) Now that you have your workspace set up, what do you want to try using Git for?
+I want to use it for my studies, for different courses and for coding.
