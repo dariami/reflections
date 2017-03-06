@@ -1,0 +1,14 @@
+1) What happens when you initialize a repository? Why do you need to do it?
+When I initialise a repository, the repository is created. I need it to track the future 
+changes, to share with others.
+
+2) How is the staging area different from the working directory and the repository? 
+What value do you think it offers?
+The staging area is the place where you put ready to commit files, the files you are finished
+working with for now. But it is not committed yet. You can add files to the staging area 
+one by one during working on some project and when you think all the changes for some one 
+logical change are done you are ready commit it all in a batch.
+When you stage the file it is still on your local branch but not yet available to others.
+Different from working directory is that it is ready to commit.
+I think it is a good idea to stage the files you are finished working with and add others
+when they are done as well and then just commit in one batch.
