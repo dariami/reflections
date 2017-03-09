@@ -21,3 +21,7 @@ How would branches help?
 When you want to implement a new feature and wanna work if it works it is better to create 
 a separate branch. It helps to keep features separated till they are finished and only then
  merge them together. It allows you to be more organised.
+ 
+ 5) How do the diagrams help you visualize the branch structure?
+ they help to see at what point new branch was created and helps you to see which commits
+ it has and if there are untraceable commits
