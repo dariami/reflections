@@ -15,3 +15,9 @@ when they are done as well and then just commit in one batch.
 
 3) How can you use the staging area to make sure you have one commit per logical change?
 You add to staging only files for specific change and then commit
+
+4) What are some situations when branches would be helpful in keeping your history organized? 
+How would branches help?
+When you want to implement a new feature and wanna work if it works it is better to create 
+a separate branch. It helps to keep features separated till they are finished and only then
+ merge them together. It allows you to be more organised.
