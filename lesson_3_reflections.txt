@@ -7,3 +7,10 @@ stay up-to-date with your remote repository?
 Because if Im working on the same file which might get committed changes from someone else 
 and these changes are pulled automatically I might get confusion and conflicts for example.
 I might not want to update something yet.
+
+3) Describe the differences between forks, clones, and branches. 
+When would you use one instead of another?
+Forking is making a copy of someones else repository in github. You are able to make changes and 
+commit but it wont make changes on someones else repository, only on your fork.
+Clone is a copy of repository from github to your local machine.
+Branch is a copy of master where you can test or implement new feature separately.
