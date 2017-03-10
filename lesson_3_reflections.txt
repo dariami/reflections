@@ -24,3 +24,9 @@ and what would be harder?
 Would have to set up a review meeting or ask to do a review offline. Then make changes 
 if necessary. During the meeting would know about needed changes immediately and could 
 implement them right away. Harder to track.
+
+6) When would you want to make changes in a separate branch rather than directly in master? 
+What benefits does each approach have?
+When I try a new feature or fixing a bug it is better to do it in a separate branch.
+It is easier to pull and push and merge directly to master. But having changes on separate
+ branch is less risky.
