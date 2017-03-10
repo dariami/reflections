@@ -18,3 +18,9 @@ Branch is a copy of master where you can test or implement new feature separatel
 4) What is the benefit of having a copy of the last known state of the remote stored locally?
 If you want to have all the latest changes to work on them later and for example you will
 not have internet to pull, it is good to fetch the changes.
+
+5) How would you collaborate without using Git or GitHub? What would be easier, 
+and what would be harder?
+Would have to set up a review meeting or ask to do a review offline. Then make changes 
+if necessary. During the meeting would know about needed changes immediately and could 
+implement them right away. Harder to track.
